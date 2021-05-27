@@ -1,0 +1,15 @@
+@media only screen and (width > 480px) {
+    .subcontents {
+        display: inline-block;
+        width: 47.5%;
+    }
+
+    .subcontents:nth-child(1) {
+        margin: 0 5% 2% 0;
+    }
+
+    .subcontents:nth-child(2) {
+        margin: 0;
+    }
+}
+

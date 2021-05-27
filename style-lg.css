@@ -1,0 +1,18 @@
+@media only screen and (width > 1024px) {
+    .subcontents {
+        width: 32%;
+    }
+
+    .subcontents:nth-child(1) {
+        margin: 0;
+    }
+
+    .subcontents:nth-child(2) {
+        margin: 0 2%;
+    }
+
+    #advertisement {
+        margin-bottom: 35px;
+    }
+}
+
